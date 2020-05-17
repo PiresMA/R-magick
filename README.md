@@ -1,2 +1,2 @@
 # R-magick
-My examples of the magick package
+Magick package: https://cran.r-project.org/web/packages/magick/vignettes/intro.html
